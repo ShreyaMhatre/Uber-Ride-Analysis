@@ -2,6 +2,7 @@
 This project provides an end-to-end analysis of Uber ride data, focusing on understanding patterns, cleaning the dataset, performing exploratory analysis, and deriving insights from various aspects such as time, category, purpose, and distance.
 
 Table of Contents:
+Technologies Used
 Overview
 Process
 1. Data Understanding
@@ -10,8 +11,6 @@ Process
 4. Time-Based Analysis
 5. Category and Purpose Analysis
 6. Distance-Based Analysis
-Technologies Used
-Setup Instructions
 Conclusion
 Overview
 
@@ -69,5 +68,6 @@ Heatmap: Visualizes ride distances by time.
 Insight: Personal trips tend to be shorter distances, while business trips cover a wider range.
 
 
-Conclusion
+Conclusion:
+
 The Uber Ride Analysis project showcases the power of data visualization and analytics in uncovering patterns in ride-sharing data. These insights can guide operational improvements, enhance customer experience, and drive strategic decisions.
