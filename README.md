@@ -1,5 +1,3 @@
-
-
 🚗 Uber Ride Analysis 🛣️
 Unlocking insights from Uber ride data through visualization and analytics!This project provides an end-to-end analysis of Uber ride data, focusing on understanding patterns, cleaning the dataset, performing exploratory analysis, and deriving insights from various aspects such as time, category, purpose, and distance. 📊✨
 
